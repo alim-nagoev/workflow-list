@@ -26,7 +26,7 @@
  4. browser-sync
 
 ## Что требуется от Вас:
-1. Скачать папку **manually** , открыть ее в **CMD** и набрать
+1. Скачать папку **base-gulp-sass-pug-browser-sync** , открыть ее в **CMD** и набрать
 ```gulp
 > npm i
 > gulp
