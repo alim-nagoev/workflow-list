@@ -16,3 +16,19 @@
 > gulp
 ```
 -----
+## base-gulp-sass-pug-browser-sync
+
+##  Зависимости:
+
+ 1. gulp;
+ 2. gulp-sass;
+ 3. gulp-pug;
+ 4. browser-sync
+
+## Что требуется от Вас:
+1. Скачать папку **manually** , открыть ее в **CMD** и набрать
+```gulp
+> npm i
+> gulp
+```
+-----
